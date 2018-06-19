@@ -1,0 +1,8 @@
+Naming convention:
+
+#field_#nucleus_#homologue.csv
+
+ex: 014_001_2.csv
+
+Each row has x,y,z coordinates.
+There should be no more than 23 rows.
